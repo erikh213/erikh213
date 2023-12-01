@@ -9,8 +9,7 @@ This page will be a directory for write-ups on various topics, primarily on **fi
 
 Personal Write-ups
 1. 
-2. 
-3. 
+2. *MORE TO COME*
 
 
 <!---
