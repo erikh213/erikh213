@@ -8,7 +8,7 @@
 This page will be a directory for write-ups on various topics, primarily on **finance** news, and some **health and fitness** writeups.
 
 Personal Write-ups
-1. `git submodule add`
+1. [Sam Altman OpenAI News](https://github.com/erikh213/OpenAI-News.git)
 2. *MORE TO COME*
 
 
